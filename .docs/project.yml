@@ -1,0 +1,8 @@
+version: 1.0.0-beta.1
+designLine: "Apple Pie"
+company: Lidl
+product: Web
+productIcon: earth
+section: Figma
+sectionIcon: figma
+visible: true
