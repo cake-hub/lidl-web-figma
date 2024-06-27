@@ -1,5 +1,17 @@
 # Change log
 
+## [1.0.0-beta.3 Web](https://github.com/cake-hub/lidl-web-figma/tree/v1.0.0-beta.3) - 2024-06-27
+
+### Added
+
+* `Figma`: "Lidl PLus Pricebox" | Lidl PLus Pricebox, Discount Pricebox and Pricebox
+
+
+### Fixed
+
+* `Figma` : "Rating" | Fixed star icon
+
+
 ## [1.0.0-beta.2 Web](https://github.com/cake-hub/lidl-web-figma/tree/v1.0.0-beta.2) - 2022-10-04
 
 ### Added
